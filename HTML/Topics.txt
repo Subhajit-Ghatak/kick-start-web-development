@@ -1,0 +1,17 @@
+> 1. What is HTML, how it works?
+> 2. HTML file creation
+> 3. VS Code
+> 4. HTML Boilerplate (head and body architecture)
+> 5. Tags, types of tags
+> 6. Header tags
+> 7. Comments
+> 8. br and hr tags
+> 9. anchour tag
+> 10. img tag
+> 11. audio tag
+> 12. video tag
+> 13. div and span tag
+> 14. block element and inline element
+> 15. list(ordered & unordered)
+> 16. form
+> 16. id and class
