@@ -1,0 +1,25 @@
+/* color(rgb, hex),text-align,text-decoration,fon-size-family,bgcolor,bgimg(url),border(w,s,c), */
+
+body{
+    /*background-image: url('img.jpg');
+    background-size: cover; */
+    background-color: white;
+}
+#heading{
+    color: rgb(255, 0, 0);    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blue;
+}
+
+#para{    
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* border: width type color; */
+    border: 2px dashed red;
+}
+
+#link{
+    /* remove underline from anchor tags */
+    text-decoration: none;
+}

@@ -1,0 +1,10 @@
+> 1. What is CSS?
+> 2. Types of CSS
+> 3. CSS Selector
+> 4. Basic CSS properties
+> 5. Width and Height
+> 6. pixels, %, rem, vw, vh
+> 7. Margin vs Padding
+> 8. CSS boilerplate(?)
+> 9. Relative vs Absolute
+> 10. Flexbox  

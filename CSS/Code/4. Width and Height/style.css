@@ -1,0 +1,12 @@
+/* max min */
+
+#papa{
+    background-color: red;
+    width: 200px;
+    min-height: 200px;
+}
+
+#heading{
+    font-size: 1 rem; 
+    /* by default 16px = 1 rem */
+}

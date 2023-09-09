@@ -1,0 +1,28 @@
+#papa{
+    /* border: 5px solid green; */
+    min-height: 90vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center; /*width wise position */
+    align-items: center; /*height wise position */
+    
+}
+
+#baccha1{
+    background-color: red;
+    height: 10px;
+    width: 50px;
+}
+
+#baccha2{
+    background-color: blue;
+    height: 10px;
+    width: 20px;
+}
+
+#baccha3{
+    background-color: green;
+    height: 10px;
+    width: 30px;
+}
